@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.retangul {
+    background-color: orange;
+    height: 1000px;
+    width: 250px;
+    position: absolute;
+}
+
+img {
+
+    border-radius: 50%;
+    border: solid 5px red;
+    margin-top: 20px;
+    margin-left: 50px;
+
+}
+.sobre{
+    position: absolute;
+    left: 5%;
+    top: 280px;
+    font-size: 17px;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.conhecimento{
+    position: absolute;
+    left: 2.5%;
+    top: 340px;
+    font-size: 17px;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.objetivos{
+    position: absolute;
+    left: 4%;
+    top: 390px;
+    font-size: 17px;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.joao{
+    color: black;
+    /* position: fixed; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    position: absolute;
+    top: 15%;
+    left: 18%;
+}
+.dasilva{
+    color:rgb(175, 24, 24);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    position: absolute;
+    top: 15%;
+    left: 33%;
+}
+.rua{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 28%;
+    left: 18%;
+}
+.email {
+    color:rgb(175, 24, 24);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 28%;
+    left: 38.5%;
+}
+.euseou{
+    color: rgb(57, 204, 57);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    position: absolute;
+    top: 37%;
+    left: 18%;
+}
